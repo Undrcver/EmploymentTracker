@@ -1,7 +1,7 @@
 # EmploymentTracker
 ## Table of Contents
 
-1. [Description](#description
+1. [Description](#description)
 2. [Deployment](#deployment)
 3. [Video Demo](#video-demo)
 
