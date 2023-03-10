@@ -9,7 +9,7 @@
 This is an application that uses Node.js. It fully allowsthe user to track new and existing employee's working at a company using a MySQL database. They are able to add new or edit exisiting departments, roles and salaries.
 
 
-![NoteTaker](visualEmployeeTracker.png)
+![Visual](Capture.PNG)
 
 ## Deployment
 
