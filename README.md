@@ -6,7 +6,7 @@
 3. [Video Demo](#video-demo)
 
 ## Description
-This is an application that uses Node.js. It fully allowsthe user to track new and existing employee's working at a company using a MySQL database. They are able to add new or edit exisiting departments, roles and salaries.
+This is an application that uses Node.js. It fully allows the user to track new and existing employee's working at a company using a MySQL database. They are able to add new or edit exisiting departments, roles and salaries.
 
 
 ![Visual](Capture.PNG)
